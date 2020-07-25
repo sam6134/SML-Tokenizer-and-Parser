@@ -1,0 +1,14 @@
+program fib:: var a, b, c : int;
+{ a := 0 ;
+  b := 1;
+  c := 10;
+  while c < 0 do 
+    {
+        write a;
+        write b;
+        a := a + b;
+        b := a;
+        c := c - 1;
+    }
+    endwh ;
+}

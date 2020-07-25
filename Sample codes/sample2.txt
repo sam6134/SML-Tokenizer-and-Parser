@@ -1,0 +1,6 @@
+program foo:: var a, b, c : int;
+{ a := 5 ;
+  b := 1;
+  c := 4;
+  if a>4 then { write b; } else { write c; } endif ;
+}

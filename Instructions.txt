@@ -1,0 +1,8 @@
+****** INSTRUCTIONS *****
+
+The following file needs three files as arguments i.e one code file and two empty files ,
+
+ The first empty file after successful code generation has tokens generated
+ The second empty file will be the ir code generated
+
+ COMMAND - "sml 2018UCS0065_a7.sml sample1.txt output1.txt output2.txt"

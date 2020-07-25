@@ -1,0 +1,7 @@
+program fact:: var a, b : int;
+{ a := 5 ;
+  b := 1;
+  while a > 0 do
+    {b := b*a ;  a := a - 1;} endwh ;
+ write b;
+}
